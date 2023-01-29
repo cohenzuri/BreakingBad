@@ -16,4 +16,4 @@ class NetworkingManagerQuotesSuccesseMock: NetworkingManagerImpl {
         return
     }
 }
-/*
+*/
